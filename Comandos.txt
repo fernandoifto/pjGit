@@ -17,3 +17,5 @@ git add Comandos.txt
 git log
 
 #Add comando git log
+
+git add .
