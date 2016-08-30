@@ -12,10 +12,9 @@ git status
 
 git add Comandos.txt 
 
-#Primeiro Commit
 
 git log
 
-#Add comando git log
-
 git add .
+
+git commit -a -m "Menssagem"
