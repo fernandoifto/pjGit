@@ -12,9 +12,14 @@ git status
 
 git add Comandos.txt 
 
-
 git log
 
 git add .
 
 git commit -a -m "Menssagem"
+
+git log -p -2
+
+git log --pretty=oneline
+
+git log --pretty=format:"%h - %an, %ar : %s"
