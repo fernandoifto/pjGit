@@ -13,3 +13,5 @@ git status
 git add Comandos.txt 
 
 #Primeiro Commit
+
+git log
