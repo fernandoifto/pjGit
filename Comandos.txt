@@ -15,3 +15,5 @@ git add Comandos.txt
 #Primeiro Commit
 
 git log
+
+#Add comando git log
