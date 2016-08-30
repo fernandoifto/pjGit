@@ -1,0 +1,15 @@
+git --version
+
+git config --global user.name "fernando.arantes"
+
+git config --global user.email "fernando.arantes@ifto.edu.br"
+
+git config --global color.ui true
+
+git init
+
+git status
+
+git add Comandos.txt 
+
+#Primeiro Commit
