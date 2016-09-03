@@ -23,3 +23,15 @@ git log -p -2
 git log --pretty=oneline
 
 git log --pretty=format:"%h - %an, %ar : %s"
+
+
+#Volta a versão do commit
+git checkout id_do_commit
+
+
+#Volta um commit anterio
+git reset HEAD~1
+
+
+#Volta tres commit anterio
+git reset HEAD~3
