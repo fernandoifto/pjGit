@@ -35,3 +35,13 @@ git reset HEAD~1
 
 #Volta tres commit anterio
 git reset HEAD~3
+
+#Criando um branch
+git checkout -b ramificacao1 
+
+#Escolhendo um branck
+git checkout master 
+
+#Deletando um branch 
+git branch -D ramificacao1
+
