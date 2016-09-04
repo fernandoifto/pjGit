@@ -62,3 +62,6 @@ git checkout ramificacao1
 #Clonar um repositorio 
 git clone https://github.com/fernandoifto/pjGit.git
 
+#Verifica se os arquivos estão sincronizados local e remoto
+git pull
+
