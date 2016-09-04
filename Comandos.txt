@@ -49,3 +49,9 @@ git branch -D ramificacao1
 git checkout ramificacao1 
 git merge master
 
+#Adicionando repositorio github
+git remote add origin https://github.com/fernandoifto/pjGit.git
+
+#Envia arquivos ao repositorio remoto
+git push -u origin master
+
