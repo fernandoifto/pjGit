@@ -53,7 +53,7 @@ git merge master
 git remote add origin https://github.com/fernandoifto/pjGit.git
 
 #Envia arquivos ao repositorio remoto
-git push -u origin master
+git push -u origin mastera
 
 #Enviar branch de ramificações
 git checkout ramificacao1
