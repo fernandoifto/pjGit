@@ -45,3 +45,7 @@ git checkout master
 #Deletando um branch 
 git branch -D ramificacao1
 
+#Fazendo um marger do mastar para ramificações 
+git checkout ramificacao1 
+git merge master
+
