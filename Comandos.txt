@@ -55,3 +55,10 @@ git remote add origin https://github.com/fernandoifto/pjGit.git
 #Envia arquivos ao repositorio remoto
 git push -u origin master
 
+#Enviar branch de ramificações
+git checkout ramificacao1
+git checkout ramificacao1 
+
+#Clonar um repositorio 
+git clone https://github.com/fernandoifto/pjGit.git
+
