@@ -63,5 +63,4 @@ git checkout ramificacao1
 git clone https://github.com/fernandoifto/pjGit.git
 
 #Busca as atualizações remotas
-git pull origin mastera
-
+git pull origin master
